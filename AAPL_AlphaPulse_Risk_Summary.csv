@@ -1,0 +1,5 @@
+Metric,Value
+Mean Daily Return,0.0010957328544805344
+Daily Volatility,0.027806890632624943
+Historical VaR (95%),-0.040603512598717625
+Monte Carlo VaR (95%),-0.04500742403647332
